@@ -1,0 +1,13 @@
+﻿  main.c
+U:\PascalTriangle\PascalTriangle\main.c(9,2): warning C4013: 'pascal_triangle' undefined; assuming extern returning int
+  pascal.c
+U:\PascalTriangle\PascalTriangle\pascal.c(8,2): warning C4013: 'setBGcolor' undefined; assuming extern returning int
+U:\PascalTriangle\PascalTriangle\pascal.c(9,2): warning C4013: 'printf' undefined; assuming extern returning int
+U:\PascalTriangle\PascalTriangle\pascal.c(12,3): warning C4013: 'setFGcolor' undefined; assuming extern returning int
+U:\PascalTriangle\PascalTriangle\pascal.c(15,18): warning C4013: 'nchoosek' undefined; assuming extern returning int
+U:\PascalTriangle\PascalTriangle\pascal.c(23,9): warning C4013: 'factor' undefined; assuming extern returning int
+  screen.c
+  Generating Code...
+  PascalTriangle.vcxproj -> U:\PascalTriangle\x64\Debug\PascalTriangle.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
